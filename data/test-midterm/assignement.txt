@@ -1,0 +1,5 @@
+You are give 2% of the transactions of an online shop (transactions-2p-42.csv) and the articles(articles.csv).
+
+What is your estimation of a full year for the performance of the shop?
+Find which products/categories/groups are the bestsellers?
+Make recommendations to the product design team for the next year!!!
