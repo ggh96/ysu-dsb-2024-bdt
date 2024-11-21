@@ -1,0 +1,25 @@
+Analyze the data and provide insides about the following
+
+1. What are the product trend changes through (3 points)
+    a. seasons of the year
+    b. the years
+(keep in mind you have different features in articles.csv besides transaction data)
+
+2. Suggest a methodology and make an estimate for the whole data given that transactions.csv is a random sample of 3%
+from the entire population (3 points). Estimate
+    a. total revenue
+    b. number of customers
+    c. number of transactions
+    d. average expenses per year per customer
+
+3. Report overall data quality (nulls, mismatches in joins, outliers, any other valid data inconsistency)
+
+4. Extra 2 points for more findings and creative work
+
+
+Submit 2 files with following name format
+- gevorg_ghalachyan.ipynb (analysis code)
+- gevorg_ghalachyan.pptx (findings - text, tables and figures)
+
+First submission deadline - November 24 5pm
+Final submission deadline - November 29 8am
