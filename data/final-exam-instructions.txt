@@ -1,0 +1,16 @@
+Data source
+https://datarepo.eng.ucsd.edu/mcauley_group/gdrive/googlelocal/
+
+
+1. Data understanding, ability to transform to structured dataframe, initial EDA (2 points)
+You'll be graded for your ability to set a higher goal, understand the data, work with unstructured data.
+
+2. Data quality analytics and problems definition cycle (2 points)
+You'll be graded for your ability to evaluate the quality of the dataset for a specified problem,
+find insufficiencies, redefine the problem, repeat the cycle.
+
+3. Continuous processing (2 points)
+You'll be graded for your ability to evaluate your data properties for continuous processing.
+
+4. Analytics and visualization (2 points)
+You'll be graded for your ability to present the results of the analytics.
